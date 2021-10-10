@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About Me
+title: About me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+> 🚧 This page is under construction 🚧
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+- Graduated with double bachelor's degree in Computer Science and Mathematics from Binus University, Jakarta.
+- Currently committed to dive deeper into Data Science field as an instructor, specifically Machine Learning and Deep Learning using Python and R programming language.
+- As an ISFJ-T, I am a detail-oriented, organized, and persistent individual who have a high willingness towards learning new knowledges and experiences.
+- I believe life is a non-stop learning process and learning-by-teaching is the most effective method in the process. Continuous learning is the key :)
