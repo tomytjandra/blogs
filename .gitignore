@@ -12,3 +12,4 @@ _notebooks/.ipynb_checkpoints
 .netlify
 .tweet-cache
 __pycache__
+_notebooks/cache/rf_randomcv_500_down.pkl
