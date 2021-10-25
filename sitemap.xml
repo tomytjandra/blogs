@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://tomytjandra.github.io/blogs/python/regression/statsmodels/2020/03/19/medical-cost-analysis-rm.html</loc>
+<lastmod>2020-03-19T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://tomytjandra.github.io/blogs/python/neural-network/keras/2020/05/02/casting-inspection-cnn.html</loc>
+<lastmod>2020-05-02T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://tomytjandra.github.io/blogs/python/classification/tree-based/scikit-learn/2020/05/29/hotel-booking-cancellation-prediction-rf.html</loc>
+<lastmod>2020-05-29T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>https://tomytjandra.github.io/blogs/python/time-series/forecasting/prophet/2021/01/15/sales-forecasting-using-prophet.html</loc>
 <lastmod>2021-01-15T00:00:00-06:00</lastmod>
 </url>
