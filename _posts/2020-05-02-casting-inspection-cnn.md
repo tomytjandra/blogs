@@ -6,7 +6,7 @@ toc: true
 badges: true
 comments: true
 author: Tomy Tjandra
-categories: [python, neural-network, keras]
+categories: [python, classification, computer-vision, keras]
 image: images/casting-inspection-cnn.jpg
 nb_path: _notebooks/2020-05-02-casting-inspection-cnn.ipynb
 layout: notebook

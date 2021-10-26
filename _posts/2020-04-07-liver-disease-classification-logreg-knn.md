@@ -6,7 +6,7 @@ toc: true
 badges: true
 comments: true
 author: Tomy Tjandra
-categories: [python, classification, scikit-learn, statmodels]
+categories: [python, classification, scikit-learn, statsmodels]
 image: images/liver-disease-classification-logreg-knn.jpg
 nb_path: _notebooks/2020-04-07-liver-disease-classification-logreg-knn.ipynb
 layout: notebook
