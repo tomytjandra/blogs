@@ -155,7 +155,22 @@ function r(t,e){if(!o.canUseDOM||e&&!("addEventListener"in document))return!1;va
 
    <!-- Assemble final sorted posts array -->
   
-  <ul class="post-list"><li><div class="Box box-shadow-medium rounded-1 col-12">
+  <ul class="post-list">
+<li><div class="Box box-shadow-medium rounded-1 col-12">
+<div class="col-4 d-table-cell p-3 v-align-middle">
+        <img class="image-preview " src="/blogs/images/liver-disease-classification-logreg-knn.jpg">
+      </div>
+<div class="col-8 d-table-cell p-3">
+        <h3>
+          <a class="post-link" href="/blogs/python/classification/scikit-learn/statsmodels/2020/04/07/liver-disease-classification-logreg-knn.html">
+            Liver Disease Classification using Logistic Regression and k-Nearest Neighbors
+          </a>
+        </h3>
+        <p class="post-meta-description">Machine learning workflow on a binary classification problem of Indian liver patient records using Logistic Regression and K-Nearest Neighbor (KNN) algorithm. Linear regression is used to handle missing values. Imbalanced data is addressed using SMOTE. Logarithm and square root transformations are applied to predictors with outliers. Both models are evaluated using the confusion matrix, Matthew's Correlation Coefficient (MCC), and ROC Curve. Logistic regression is further improved using threshold tuning, while KNN is enhanced by comparing the scaling method (min-max or standardization) and manual tuning of the number of neighbors (k)</p>
+          <p class="post-meta">Apr 7, 2020</p>
+      </div>
+  </div></li>
+<li><div class="Box box-shadow-medium rounded-1 col-12">
 <div class="col-4 d-table-cell p-3 v-align-middle">
         <img class="image-preview " src="/blogs/images/medical-cost-analysis-rm.jpg">
       </div>
@@ -168,7 +183,8 @@ function r(t,e){if(!o.canUseDOM||e&&!("addEventListener"in document))return!1;va
         <p class="post-meta-description">Machine learning workflow to analyze the factor of medical cost for personal insurance using Multiple Linear Regression. Several models are compared by handling outlier, feature selection using step-wise regression (backward and forward), and regularized linear regression (Ridge and Lasso). Four assumptions of linear regression are tested - linearity, normality of residual, homoscedasticity, and no multicollinearity.</p>
           <p class="post-meta">Mar 19, 2020</p>
       </div>
-  </div></li></ul>
+  </div></li>
+</ul>
 
     
       <div class="pager">
