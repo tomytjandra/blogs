@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://tomytjandra.github.io/blogs/python/web-scraping/natural-language-processing/gensim/2020/02/25/text-mining-for-indonesian-online-news-articles-about-corona.html</loc>
+<lastmod>2020-02-25T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>https://tomytjandra.github.io/blogs/python/regression/statsmodels/2020/03/19/medical-cost-analysis-rm.html</loc>
 <lastmod>2020-03-19T00:00:00-05:00</lastmod>
 </url>
@@ -49,6 +53,10 @@
 <lastmod>2021-08-05T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>https://tomytjandra.github.io/blogs/python/classification/computer-vision/pytorch/2021/08/27/mnist-digit-pytorch.html</loc>
+<lastmod>2021-08-27T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>https://tomytjandra.github.io/blogs/about/</loc>
 </url>
 <url>
@@ -62,8 +70,5 @@
 </url>
 <url>
 <loc>https://tomytjandra.github.io/blogs/page2/</loc>
-</url>
-<url>
-<loc>https://tomytjandra.github.io/blogs/page3/</loc>
 </url>
 </urlset>
