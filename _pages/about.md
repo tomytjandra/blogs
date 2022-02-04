@@ -4,9 +4,10 @@ title: About me
 permalink: /about/
 ---
 
-> 🚧 This page is under construction 🚧
+Here's my latest CV (last updated January 2022):
 
-- Graduated with double bachelor's degree in Computer Science and Mathematics from Binus University, Jakarta.
-- Currently committed to dive deeper into Data Science field as an instructor, specifically Machine Learning and Deep Learning using Python and R programming language.
-- As an ISFJ-T, I am a detail-oriented, organized, and persistent individual who have a high willingness towards learning new knowledges and experiences.
-- I believe life is a non-stop learning process and learning-by-teaching is the most effective method in the process. Continuous learning is the key :)
+<object data="CV TOMY (JAN 2022).pdf#toolbar=0&navpanes=0&zoom=100" style="pointer-events: none;" type="application/pdf" width="100%" height="800">
+    <embed src="CV TOMY (JAN 2022).pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="CV TOMY (JAN 2022).pdf">Download PDF</a>.</p>
+    </embed>
+</object>
